@@ -1,6 +1,6 @@
 /*
     *****************
-    DONE BY:-   TUMMALA KETHAN
+    DONE BY:-   VARUN SHUKLA
     
     *****************
 */
@@ -59,7 +59,7 @@ function enable_buttons()
 
 /*
     *****************
-    DONE BY:-   TUMMALA KETHAN
+    DONE BY:-   VARUN SHUKLA
     
     *****************
 */
